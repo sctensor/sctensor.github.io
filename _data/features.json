@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Free Consultation",
+    "description": "New clients receive an obligation free consultation.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Expertise and Innovation:",
+    "description": "Driving success through cutting-edge technology and machine learning expertise, pioneering innovation for exceptional outcomes.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Customized Solutions",
+    "description": "Delivering personalized strategies and solutions that unlock the full potential of your business, tailored to your unique needs.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

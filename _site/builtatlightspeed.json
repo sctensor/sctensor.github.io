@@ -1,0 +1,11 @@
+{
+    "title": "Tensor Systems",
+    "demoUrl": "https://jekyll-advance.netlify.app",
+    "categories": {
+      "ssg": ["jekyll"],
+      "css": ["bootstrap", "scss"],
+      "archetype": ["business"],
+      "features": ["netlify", "github-pages"],
+      "blueprint": ["theme"]
+    }
+}
