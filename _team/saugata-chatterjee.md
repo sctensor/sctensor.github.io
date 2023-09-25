@@ -3,7 +3,7 @@ title: "Saugata Chatterjee, PhD"
 date: 2023-06-18
 image: "images/team/sc.jpg"
 jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/saugatach/"
 promoted: true
 weight: 1
 ---
