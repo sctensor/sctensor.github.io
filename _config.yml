@@ -17,6 +17,9 @@ collections:
   services:
     output: true
     sort_by: weight
+  cases:
+    output: true
+    sort_by: weight
   team:
     output: true
 
@@ -31,6 +34,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "cases"
+    values:
+      layout: "case"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
