@@ -8,9 +8,15 @@ promoted: true
 weight: 1
 ---
 
-Saugata is a highly skilled professional with a Ph.D. in theoretical physics and a background in finance. 
-With extensive experience in Python, machine learning, algorithmic trading, and big data, Saugata excels 
-at delivering innovative solutions. Currently leading a groundbreaking project in big data analytics, 
-Saugata combines technical expertise with financial knowledge to drive actionable insights and deliver 
-measurable results. Saugata's commitment to staying at the forefront of industry trends ensures our team 
-provides top-tier services, tailored to meet the evolving needs of our clients.
+Saugata, a Ph.D. holder in theoretical physics, stands as a visionary leader in the tech industry.
+With over a decade of expertise, he masterfully combines theoretical rigor with machine learning, algorithmic trading,
+and big data analytics. As the Founder and Visionary Leader, he spearheads a groundbreaking project in big data
+analytics, reflecting his commitment to innovation.
+
+Beyond theoretical prowess, Saugata's journey is marked by hands-on experience, translating complex theories into
+practical, innovative solutions. His strategic leadership ensures the team delivers top-tier services tailored to meet
+evolving client needs. Unique in his ability to bridge technical expertise, Saugata is not just a problem-solver but a
+visionary who crafts cutting-edge solutions in machine learning. In a landscape where innovation often comes at a
+premium, Saugata emerges as an entrepreneur who envisions and delivers the best solutions, defying industry norms
+and ensuring optimal outcomes for his clients.  
+<a href="https://www.linkedin.com/in/saugatach/"><img src="/images/social/linkedin.svg" alt="LinkedIn" style="width: 50px;"/></a>

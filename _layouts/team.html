@@ -7,8 +7,14 @@ bodyClass: "page-team"
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="team team-single">
-        <h1 class="title">{{page.title}}</h1>
-        <div class="content">{{content}}</div>
+        {% assign team = site.team | where: "title", page.title | first %}
+        {% if team.image %}
+          <div class="team-image">
+            <img width="90" height="90" alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
+          </div>
+        {% endif %}
+        <h1 class="title">{{ team.title }}</h1>
+        <div class="content">{{ content }}</div>
       </div>
     </div>
   </div>
