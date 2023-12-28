@@ -35,7 +35,7 @@ With key decision-makers, including the CEO, on board, the project moved into a 
 trees' success in identifying critical risk factors facilitated a smooth transition. A detailed budget was crafted,
 aiming to utilize 80% of the initial budget while accommodating potential cost overruns. Resource allocation became a
 strategic task, with the data scientist diligently identifying the necessary resources to ensure project completion
-within the allocated budget.
+within the allocated budget. 
 
 ## Project Initiation and Model Development
 
@@ -44,7 +44,9 @@ relevant features. Manual data cleaning and exploratory data analysis were initi
 through an ETL pipeline. Random Forest was chosen to enhance accuracy over decision trees, providing a more robust model
 with low variance. The pipeline was trained on open-source algorithms, effectively managing costs. Notably, the
 landscape has evolved, and current processes, such as ETL and exploratory data analysis, can be automated, significantly
-reducing costs.
+reducing costs. The full pipeline is shown below.
+
+![Pipeline](/images/student-retention-pipeline.jpg)
 
 ## Model Efficacy and Cost Analysis
 

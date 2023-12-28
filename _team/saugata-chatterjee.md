@@ -8,15 +8,20 @@ promoted: true
 weight: 1
 ---
 
-Saugata, a Ph.D. holder in theoretical physics, stands as a visionary leader in the tech industry.
-With over a decade of expertise, he masterfully combines theoretical rigor with machine learning, algorithmic trading,
-and big data analytics. As the Founder and Visionary Leader, he spearheads a groundbreaking project in big data
-analytics, reflecting his commitment to innovation.
+Saugata, with a Ph.D. in theoretical physics, brings a unique blend of academic prowess and corporate experience
+to the tech arena. His journey, which includes delving into data analysis in astrophysics and pivotal roles at renowned
+tech giants like Apple, Cisco, and Walgreens, provides a rich tapestry of skills and insights.
 
-Beyond theoretical prowess, Saugata's journey is marked by hands-on experience, translating complex theories into
-practical, innovative solutions. His strategic leadership ensures the team delivers top-tier services tailored to meet
-evolving client needs. Unique in his ability to bridge technical expertise, Saugata is not just a problem-solver but a
-visionary who crafts cutting-edge solutions in machine learning. In a landscape where innovation often comes at a
-premium, Saugata emerges as an entrepreneur who envisions and delivers the best solutions, defying industry norms
-and ensuring optimal outcomes for his clients.  
+During his time in academia, where he served as a faculty advisor and adjunct faculty at ASU, Saugata discerned a
+noticeable technology gap within academic leadership. While research in higher ed embraces innovation, the business side
+often lags. Saugata observed the challenges of non-adoption of tech products due to resource constraints and varying
+levels of industry experience among academic leaders.
+
+Recognizing that commercial tech solutions, often tailored for the retail sector, came with substantial price tags,
+Saugata is on a mission to bridge this gap. His vision is crystal clear: deliver tailored solutions for higher education
+and businesses beyond the Fortune 500. He acknowledges the distinctive challenges and opportunities in these domains,
+aiming to provide practical and impactful tech solutions.
+
+Visit his [website](https://www.saugatachatterjee.net/) to learn more about his work.  
 <a href="https://www.linkedin.com/in/saugatach/"><img src="/images/social/linkedin.svg" alt="LinkedIn" style="width: 50px;"/></a>
+

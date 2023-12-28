@@ -19,6 +19,8 @@ University-Sacramento, where he led comprehensive web and software development p
 Connect Inc., a crowd-sourced platform for higher education technology solutions.
 
 With a skill set encompassing web design, mobile applications, management, and SEO, Jeff Dillon is a valuable advisor,
-providing strategic insights and fostering innovation within our team.
+providing strategic insights and fostering innovation within our team.  
 
+Visit his [website](https://edtechconnect.com/) to learn more about his work.  
 <a href="https://www.linkedin.com/in/edtechconnect/"><img src="/images/social/linkedin.svg" alt="LinkedIn" style="width: 50px;"/></a>
+
