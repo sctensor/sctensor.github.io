@@ -1,14 +1,18 @@
 ---
-title: "Case Study: Outsource HOA service to Chatbot"
+title: "Case Study: Streamlining HOA Operations with Chatbots"
 date: 2023-12-18
 weight: 2
 ---
 
 [//]: # (![ChatBot]&#40;/images/chatbot.jpg&#41;)
 ![ChatBot](/images/chatbot.jpg){:width="50%"}
+
 ## Problem Statement
 
-A homeowners association (HOA) with a significant number of units faced a challenge of handling a high volume of queries. The limited board members struggled to keep up with the influx, and even outsourcing management didn't always guarantee timely responses. As homeowner complaints grew due to non-responsiveness and a lack of transparency, the board sought a solution to outsource services to a more efficient and responsive platform.
+A homeowners association (HOA) with a significant number of units faced a challenge of handling a high volume of
+queries. The limited board members struggled to keep up with the influx, and even outsourcing management didn't always
+guarantee timely responses. As homeowner complaints grew due to non-responsiveness and a lack of transparency, the board
+sought a solution to outsource services to a more efficient and responsive platform.
 
 ## Proposed Solution
 
@@ -35,9 +39,14 @@ connected to the vector database. The chatbot was powered using a simple sentenc
 
 ## Results
 
-Homeowners can now directly pose questions to the chatbot and receive real-time answers regarding fees, owner
-responsibilities, CC&R, etc. This has significantly liberated valuable resources for property managers, allowing them to
-concentrate on effective property management.
+Homeowners can now seamlessly inquire about fees, owner responsibilities, CC&R, and more, receiving immediate responses
+through the chatbot. This has notably freed up valuable resources for property managers, enabling them to focus more on
+efficient property management.
+
+Although the precise impact of the chatbot couldn't be quantified due to a lack of historical data on management
+communications, the system currently handles an average of 40 to 50 user queries per day. The near-instantaneous
+response contrasts sharply with the traditionally slower email responses from management. In summary, it represents a
+substantial overall improvement in user experience.
 
 *For more details on our approach and methodologies, please contact our team.*
 

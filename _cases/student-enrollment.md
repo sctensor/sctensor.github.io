@@ -1,5 +1,5 @@
 ---
-title: "Case Study: Identify Students at Risk of Dropping Out"
+title: "Case Study: Transforming Higher Ed with Predictive Analytics"
 date: 2023-12-18
 weight: 1
 ---
