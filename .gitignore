@@ -1,0 +1,13 @@
+*.pyc
+*.log
+
+.idea/
+.ipynb_checkpoints/
+
+.metadata/
+.recommenders/
+
+.Rproj*
+.Rproj.user/
+
+
